@@ -1,0 +1,11 @@
+Hello ^^
+
+I initially created this project back in April 2023 for the sake of a highschool project. 
+However, I have lost the original file, hence I am still working on fully debugging it (it is mostly finished, there are still some faulty commands though)
+
+This project is essesntially an extremely simplified banking system which has four main functions:
+creating a bank account/logging into it, depoiting money, withdrawing money, and viewing account information.
+
+I would say that this project is heavily based around working with csv files and reading them overall.
+
+I look forward to formally finishing this project ***for the second time D:***
