@@ -48,10 +48,10 @@ def login():
       if rows[i][0]==current_account_number:
         return i
     
-    else:
-      print("account not found, let's create a new account instead")
-      create_account()
-      return False
+  else:
+    print("account not found, let's create a new account instead")
+    create_account()
+    return False
     
       
 def information():
