@@ -8,4 +8,4 @@ creating a bank account/logging into it, depoiting money, withdrawing money, and
 
 I would say that this project is heavily based around working with csv files and reading them overall.
 
-I look forward to formally finishing this project ***for the second time D:***
+I look forward to formally finishing this project
